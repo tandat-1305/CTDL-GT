@@ -1,5 +1,7 @@
 Đồ án học phần Cấu Trúc Dữ Liệu và Giải Thuật
+
 Họ và tên: Nguyễn Trịnh Tấn Đạt
+
 Mã SV: 20E1020068
 Danh sách bài tập gồm 19 bài được viết với ngôn ngữ Python và R
 1. Giải thuật đệ quy
